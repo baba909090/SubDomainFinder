@@ -5,7 +5,7 @@
   dnsx:- (https://github.com/projectdiscovery/dnsx)
   httpx:- (https://github.com/projectdiscovery/httpx)
   
-#External tools
+#External tools:-
   subfinder
   dnsx
   httpx
@@ -23,7 +23,7 @@
   go install github.com/projectdiscovery/dnsx/cmd/dnsx@latest
   go install github.com/projectdiscovery/httpx/cmd/httpx@latest
 
-#Verify Installation
+#Verify Installation:-
 In a new PowerShell window, run:
   subfinder -h
   dnsx -h
